@@ -3,14 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_2/SoundHelper.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_3/Serializator.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_3/Mahasiswa.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_2/FileHelper.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_2/Soal3.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_2/Soal1.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_3/Tugas3.java</file>
-            <file>file:/home/riza/NetBeansProjects/PraktikumSister/Sister/src/modul_2/Soal2.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_4/Serializator.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/No3.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_2/ImageHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_2/FileHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/ImageHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/MyClient.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/FileHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_4/Mahasiswa.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_4/EchoClient.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/FileGUIHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_3/Serializator.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/SoundHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_4/FileHelper.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/DaytimeServer.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_4/EchoServer.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/Serializator.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/Mahasiswa.java</file>
+            <file>file:/data/Repo/NetBeansProjects/PraktikumSister/Sister/src/modul_5/ClientCallback.java</file>
         </group>
     </open-files>
 </project-private>
