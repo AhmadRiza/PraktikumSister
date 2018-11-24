@@ -22,6 +22,7 @@ public class Soal3 extends Thread {
         try {
             while (true) {
                 if (isPaused) {
+                    isPaused = false;
                     curVal += 1;
                     increment = -2;
                 }
